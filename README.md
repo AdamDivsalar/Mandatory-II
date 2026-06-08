@@ -1,6 +1,6 @@
 # Mandatory-II
-Det her er en aflevering for Mandatory I|II Teknologi. 
-Jeg har lavet tilføjet både I & II til denne repository. 
+´´Det her er en aflevering for Mandatory I|II Teknologi.´´
+´´Jeg har lavet tilføjet både I & II til denne repository. 
 
 Jeg har skrivet det i markdown med det fokus på overblik og at vise, at det er noget jeg har øvet mig på. Der er plads 
 
